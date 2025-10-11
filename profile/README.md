@@ -17,9 +17,6 @@ Web interface for viewing leaderboard and player profiles along SPTLB Network.
 ### [Website](https://github.com/SPT-Leaderboard/Website)
 Open source of our web interface - no obfuscation for its files is used. Just for you!
 
-### [SPT Leaderboard API](https://github.com/SPT-Leaderboard/spt-leaderboard-api)
-Backend service that you can make requests to, completely free of charge, just because we can.
-
 ## How to start?
 
 1. **Download** the latest release from our [Releases Page](https://github.com/SPT-Leaderboard/spt-leaderboard-core/releases)
