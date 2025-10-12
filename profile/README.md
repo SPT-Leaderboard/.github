@@ -19,7 +19,7 @@ Open source of our web interface - no obfuscation for its files is used. Just fo
 
 ## How to start?
 
-1. **Download** the latest release from our [Releases Page](https://github.com/SPT-Leaderboard/spt-leaderboard-core/releases)
+1. **Download** the latest release from our [Releases Page](https://github.com/SPT-Leaderboard/Client/releases)
 2. **Drag and Drop** the mod in your SPT game folder (`YOUR_SPT_INSTALLATION/ <-- Here`)
 3. **Configure** the settings in the F12 BepInEx menu
 4. **Play** and watch your stats get tracked automatically
