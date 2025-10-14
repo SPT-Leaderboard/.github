@@ -12,10 +12,10 @@
 The main mod that handles data that is being sent to leaderboard along with other trackers.
 
 ### [Server Mod](https://github.com/SPT-Leaderboard/Server) 
-Web interface for viewing leaderboard and player profiles along SPTLB Network.
+Server mod serves a way of communication between client and server, along with responsibility of item withdrawal, or trader messages
 
 ### [Website](https://github.com/SPT-Leaderboard/Website)
-Open source of our web interface - no obfuscation for its files is used. Just for you!
+Open source of our web interface with all the features presented - no obfuscation for its files is used. Just for you!
 
 ## How to start?
 
