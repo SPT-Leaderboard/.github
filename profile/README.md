@@ -12,10 +12,10 @@
 The main mod that handles data that is being sent to leaderboard along with other trackers.
 
 ### [Server Mod](https://github.com/SPT-Leaderboard/Server-CSharp) 
-Server mod serves a way of communication between client and server, along with responsibility of item withdrawal, or trader messages
+Server mod serves a way of communication between client and server, along with responsibility of item withdrawal or trader messages
 
-### [3.11 Server Mod (LTS)](https://github.com/SPT-Leaderboard/Server)
-Server mod for players still using 3.11
+### [3.11 Server Mod](https://github.com/SPT-Leaderboard/Server)
+Server mod (old) for SPT 3.11
 
 ### [Website](https://github.com/SPT-Leaderboard/Website)
 Open source of our web interface with all the features presented - no obfuscation for its files is used. Just for you!
