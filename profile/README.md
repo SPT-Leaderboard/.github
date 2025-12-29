@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sptlb.yuyui.moe/media/newlogo_transparent.png" alt="SPT Leaderboard Logo" width="150" />
+  <img src="https://i.ibb.co/ycY7QW8d/icon-transparent-1.png" alt="SPT Leaderboard Logo" width="150" />
 </div>
 
 <h1 align="center">SPT Leaderboard</h1>
