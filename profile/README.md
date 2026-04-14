@@ -34,7 +34,6 @@ Open source of our web interface with all the features presented - no obfuscatio
 
 ## Resources
 
--  [API Documentation](https://sptlb.yuyui.moe/api-documentation) - Small documentation on how to use our API
 -  [Issue Tracker](https://github.com/SPT-Leaderboard/Website/issues) - Report bugs and issues  
 -  [Discord Community](https://discord.gg/psV2PY8brW) - Join our community
 -  [FAQ, and other stuff](https://forge.sp-tarkov.com/mod/2101/spt-leaderboard) - Everything is written on the mod page!
@@ -44,6 +43,8 @@ Open source of our web interface with all the features presented - no obfuscatio
 - Stattrack Mod
 - Realism Mod
 - WTT Armory
+- Pause Mod
+- ODT's Item Info
 - PTT (Path To Tarkov)
 - And many other mods...
 
@@ -53,8 +54,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Links
 
-- [Official Website](https://sptlb.yuyui.moe/)
-- [SPTLB Network](https://sptlb.yuyui.moe/api/network/login/)
+- [Official Website](https://sptlb.katrinfoxvr.com/)
+- [SPTLB Network](https://sptlb.katrinfoxvr.com/api/network/login/)
 - [SPT Official](https://www.sp-tarkov.com)
 
 ---
