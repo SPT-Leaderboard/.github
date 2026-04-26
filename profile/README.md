@@ -4,7 +4,7 @@
 
 <h1 align="center">SPT Leaderboard</h1>
 
-<h3 align="center">The ultimate leaderboard for <strong>SPT (Single Player Tarkov)</strong> player statistics, rankings, skill score, profiles, its own tarkov market, player challenges, achievements and more.</h3>
+<h3 align="center">The ultimate leaderboard for <strong>SPT (Single Player Tarkov)</strong> player statistics, rankings, profiles, its own tarkov market, progression and more.</h3>
 
 ## Projects
 
@@ -24,21 +24,22 @@ Open source of our web interface with all the features presented - no obfuscatio
 
 1. **Download** the latest release from our [Releases Page](https://github.com/SPT-Leaderboard/Client/releases)
 2. **Drag and Drop** the mod in your SPT game folder (`YOUR_SPT_INSTALLATION/ <-- Here`)
-3. **Configure** the settings in the F12 BepInEx menu
-4. **Play** and watch your stats get tracked automatically
+3. **Make Sure** the settings are in place in the F12 BepInEx menu
+4. **Play** and watch your stats get tracked automatically on the website
+5. **Login** to manage your profile, settings, set up a 2FA or buy Tarkov items
 
 ## Contributing
 
-- **Report Bugs**: Found an issue with a mod, or website? [Open a ticket](https://github.com/SPT-Leaderboard/Website/issues)
-- **Suggest Features**: Have an idea? Share it in our [Issues](https://github.com/SPT-Leaderboard/Website/issues)
+- **Report Bugs**: Found an issue with a mod, or our website? Perhaps can't login? [Open a ticket here](https://github.com/SPT-Leaderboard/Website/issues)
+- **Suggest Features**: Have an idea or a suggestion? Share it in our [Issues](https://github.com/SPT-Leaderboard/Website/issues)
 
 ## Resources
 
 -  [Issue Tracker](https://github.com/SPT-Leaderboard/Website/issues) - Report bugs and issues  
 -  [Discord Community](https://discord.gg/psV2PY8brW) - Join our community
--  [FAQ, and other stuff](https://forge.sp-tarkov.com/mod/2101/spt-leaderboard) - Everything is written on the mod page!
+-  [FAQ, and other useful info](https://forge.sp-tarkov.com/mod/2101/spt-leaderboard) - Everything is written on the mod page!
 
-## Compatible With
+## Compatible+* With
 - Fika Project
 - Stattrack Mod
 - Realism Mod
@@ -46,7 +47,9 @@ Open source of our web interface with all the features presented - no obfuscatio
 - Pause Mod
 - ODT's Item Info
 - PTT (Path To Tarkov)
-- And many other mods...
+- And many, many other mods...
+
+`* - Oficially supported by the mod developers`
 
 ## License
 
